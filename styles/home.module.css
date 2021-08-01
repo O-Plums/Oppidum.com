@@ -4,8 +4,8 @@
   justify-content: center;
   align-items: center;
   background: rgb(34,193,195);
-background: linear-gradient(198deg, rgba(34,193,195,1) 0%, rgba(26,45,70,1) 100%);
-min-height: 100vh;
+  background: linear-gradient(198deg, rgba(34,193,195,1) 0%, rgba(26,45,70,1) 100%);
+  min-height: 100vh;
 }
 .title-container {
   display: flex;
@@ -30,4 +30,25 @@ min-height: 100vh;
 .image-store {
   margin: 20px;
   width: 300px;
+}
+
+.privacy-container {
+  padding: 50px 500px;
+}
+
+@media screen and (max-width: 800px) {
+  .image-container {
+    flex-direction: column;
+
+  }
+  
+  .image-display {
+    margin: 10px;
+    width: 90%;
+    border-radius: 20px;
+  }
+
+  .privacy-container {
+    padding: 10px;
+  }
 }
