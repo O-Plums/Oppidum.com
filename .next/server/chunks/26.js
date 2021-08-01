@@ -19,14 +19,6 @@ exports.modules = {
 
 
 
-/* eslint-disable jsx-a11y/no-static-element-interactions */
-
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-
-/* eslint-disable import/prefer-default-export */
-
-/* eslint-disable react/prop-types */
-
 
 const Main = props => {
   const {
@@ -96,7 +88,7 @@ const Main = props => {
         content: title
       }), /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
         property: "og:url",
-        content: "https://oppidum.com/"
+        content: "https://oppidums.com/"
       }), /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
         property: "og:title",
         content: title
@@ -123,7 +115,7 @@ const Main = props => {
         content: description
       }), /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
         name: "keywords",
-        content: "Tourisme, Travel, Game, kids, Play, Dragon"
+        content: "Tourisme, Travel, France, Discovery, history, Glob trotters"
       }), /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
         name: "author",
         content: "Oppidum"
@@ -134,10 +126,10 @@ const Main = props => {
         content: "width=device-width, initial-scale=1"
       }), /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
         rel: "canonical",
-        href: "https://oppidum.com/"
+        href: "https://oppidums.com/"
       }), /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
         rel: "shortlink",
-        href: "https://oppidum.com/"
+        href: "https://oppidums.com/"
       }), /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
         rel: "icon",
         type: "image/png",
