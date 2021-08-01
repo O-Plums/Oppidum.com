@@ -15,7 +15,7 @@ export default function Home() {
       <img className={homeStyle['image-display']} src='/assets/screenshot4.png' />
       </div>
       <div className={homeStyle['image-container']}>
-      <a  href="https://play.google.com/store/apps/details?id=com.oppidums.app">
+      <a  href="https://play.google.com/store/apps/details?id=com.oppidum.app">
         <img className={homeStyle['image-store']} src='/assets/playstore.png'  alt="ios logo" />
       </a>
        <a href="https://apps.apple.com/us/app/oppidums/id1574072581">
