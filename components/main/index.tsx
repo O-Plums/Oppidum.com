@@ -4,8 +4,8 @@ import Head from 'next/head';
 export const Main: React.FC = (props) => {
 
   const { children } = props;
-  const title = "oppidums - L'agence tourisme de poche";
-  const description = "oppidums est une application qui fournit des informations culturelles, historiques et touristiques sur différentes villes."
+  const title = "Oppidums - L'agence tourisme de poche";
+  const description = "Oppidums est une application qui fournit des informations culturelles, historiques et touristiques sur différentes villes."
   return (
     <>
       <Head>
@@ -67,7 +67,7 @@ export const Main: React.FC = (props) => {
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta httpEquiv="Content-Language" content={'Fr-fr'} />
         <meta property="og:site_name" content={title} />
-        <meta property="og:url" content="https://oppidumss.com/" />
+        <meta property="og:url" content="https://oppidums.com/" />
         <meta property="og:title" content={title} />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/assets/oppidums.png" />
@@ -81,9 +81,9 @@ export const Main: React.FC = (props) => {
         <meta name="author" content="oppidums" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://oppidumss.com/" />
+        <link rel="canonical" href="https://oppidums.com/" />
 
-        <link rel="shortlink" href="https://oppidumss.com/" />
+        <link rel="shortlink" href="https://oppidums.com/" />
         <link rel="icon" type="image/png" href="/assets/oppidums.png" />
        
         {/* <link rel="stylesheet" href="/styles/global.scss" /> */}
