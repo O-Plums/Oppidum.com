@@ -47,7 +47,7 @@ export default function TermsAndConditions() {
       <div style={{padding: '50px 500px'}}>
       <div className={homeStyle['title-container']}>
          <img width='100' style={{borderRadius: '20px'}} src='/assets/oppidum.png' />
-         <h1>Oppidum - Terms & Conditions</h1>
+         <h1>Oppidums - Terms & Conditions</h1>
         </div>
       <ReactMarkdown remarkPlugins={[gfm]} children={markdown} />
       </div>

@@ -67,7 +67,7 @@ export const Main: React.FC = (props) => {
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta httpEquiv="Content-Language" content={'Fr-fr'} />
         <meta property="og:site_name" content={title} />
-        <meta property="og:url" content="https://oppidum.com/" />
+        <meta property="og:url" content="https://oppidums.com/" />
         <meta property="og:title" content={title} />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/assets/oppidum.png" />
@@ -80,9 +80,9 @@ export const Main: React.FC = (props) => {
         <meta name="author" content="Oppidum" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://oppidum.com/" />
+        <link rel="canonical" href="https://oppidums.com/" />
 
-        <link rel="shortlink" href="https://oppidum.com/" />
+        <link rel="shortlink" href="https://oppidums.com/" />
         <link rel="icon" type="image/png" href="/assets/oppidum.png" />
        
         {/* <link rel="stylesheet" href="/styles/global.scss" /> */}

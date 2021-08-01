@@ -6,7 +6,7 @@ export default function Home() {
       <div className={homeStyle['container']}>
         <div className={homeStyle['title-container']}>
          <img width='100' style={{borderRadius: '20px'}} src='/assets/oppidum.png' />
-          <h1 style={{color: 'white'}}>Oppidum</h1>
+          <h1 style={{color: 'white'}}>Oppidums</h1>
         </div>
       <div className={homeStyle['image-container']}>
       <img className={homeStyle['image-display']} src='/assets/screenshot1.png' />
